@@ -1,1 +1,2 @@
-# Website_SPA
+# *SPA & Wellness*  
+Strona napisana na podstawie kursu.
